@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: silver;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+h1{
+    font-family: 'Goldman', cursive; 
+    font-size: 50px;
+}
+
+button{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.picture-url{
+width: 150px;    
+}
+
+.gallery{
+    font-size: 30px;
+}
+.gallery img{
+   height: 250px;
+   width: 400px;
+   background-size: contain;
+   overflow: hidden;
+   border-style: solid;
+}
+
+.caption{
+	word-wrap: break-word;
+}
